@@ -62,7 +62,8 @@
                      Name: ImgName,
                      Link: ImgUrl
                  });
-             alert('image added successfully');    
+             alert('image added successfully');
+                 location.reload();
              }
          );
      });
