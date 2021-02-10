@@ -64,6 +64,7 @@
                      Link: ImgUrl
                  });
              alert('image added successfully');    
+                  location.reload();
              }
          );
      });
